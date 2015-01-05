@@ -1,5 +1,8 @@
+##*ATTENTION [DEPRECATED]*
+See the new repository in a rails version: [peneira](https://github.com/brunoocasali/peneira) or online: http://peneira.co
+
 Peneira
-=======
+==
 *For more approach of scouts and athletes we did the "Peneira"!!*
 
 Developed by: ***Rocket Team*** - Unisep version!!
